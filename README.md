@@ -8,7 +8,7 @@ Windows : https://stackoverflow.com/questions/52393850/how-to-install-gnu-parall
 # How To Use
 <i>bash apachrot.sh yourlist.txt thread</i>
 # Reference
-https://www.youtube.com/watch?v=WSVcuV2Wc58
+https://www.youtube.com/watch?v=WSVcuV2Wc58<br>
 https://www.youtube.com/watch?v=MFBUuJyWPkk
 # Donate
 BTC : 1KW2RmVwjEF99TFptRH7mABykGYgX2iuSP
