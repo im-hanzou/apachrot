@@ -1,6 +1,6 @@
 # Apache (CVE-2021-41773, CVE-2021-42013) Vulnerability Checker
-https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-41773
-https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-42013
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-41773<br>
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-42013<br>
 Using GNU Parallel. You must have parallel for using this tool
 # Install Parallel
 Linux : <i>apt-get install parallel -y</i><br>
